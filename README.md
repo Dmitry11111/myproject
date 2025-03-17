@@ -31,6 +31,10 @@ The bot allows the user to add tasks for selected dates, view tasks for a specif
 Tasks are saved in JSON format, which allows the bot to save data between sessions. 
 The project is based on the course Python Fundamentals: Creating a Telegram Bot from Netology.
 
+### Micro Projects
+[html/css layout example](https://dmitry11111.github.io/rsschool-cv/index.html)
+
+
 ## Hard skills
 - Programming: Python, SQL, HTML, CSS
 
@@ -46,7 +50,7 @@ This is a list of certificates and courses that I have recently completed.
 )
 - ** ["Python Generation": A Course for Beginners (2025) (Stepik) 
 ](https://stepik.org/cert/2783474?lang=en)
-- ** [Python programming and product creation (2024) (Training Center Pedagogical Alliance) 
+- ** [Programming and creation of IT products in Python (2024) (Training Center Pedagogical Alliance) 
 ]
 - ** [Data Analyst  (2024) (Tomsk National University)]
 - ** [Your Javascript (2024) (Stepik)](https://stepik.org/cert/2779288?lang=en)

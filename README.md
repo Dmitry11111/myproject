@@ -1,4 +1,4 @@
-# Product Analyst | Marketer Portfolio - Dmitrii Trifonov
+# Product Analyst | Marketer | Python developer | Portfolio - Dmitrii Trifonov
 
 
 ## Portfolio projects
